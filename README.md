@@ -14,7 +14,8 @@
 | [🐬 OrcaMail](https://orcamail.ai)<br/>orcamail.ai | Wallet-to-wallet encrypted messaging on Lightchain | ✅ Live |
 | [📚 OrcaLearn](https://orcalearn.ai)<br/>orcalearn.ai | AI-powered homeschool platform — lesson plans via AIVM, quizzes, transcripts | ✅ Live |
 | [🔍 Smart Contract Explainer](https://smartcontractexplainer.xyz)<br/>smartcontractexplainer.xyz | Paste any contract address → get a plain-English explanation | ✅ Live |
-| [🎨 OrcaArt](https://github.com/Keiko-Dev-LCAI/orcaart)<br/>[emojisandstickers.xyz](https://emojisandstickers.xyz) | Discord bot for AI-generated emojis and stickers | ✅ Live |
+| [🎨 OrcaArt](https://github.com/Keiko-Dev-LCAI/orcaart) | Discord bot — generate custom emojis and stickers right inside Discord | ✅ Live |
+| [🖼️ Emojis & Stickers](https://emojisandstickers.xyz)<br/>emojisandstickers.xyz | AI image generator for custom emojis and stickers | ✅ Live |
 | 🗃️ OrcaFiles<br/>orcafiles.ai | Encrypted local-first file organizer — decentralized rebuild in progress | 🔧 Coming |
 
 ---
