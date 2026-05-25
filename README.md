@@ -7,7 +7,7 @@
 
 ---
 
-## 🌊 Orca Pod
+## 🌊 The Orca Fleet
 
 | Project | What It Does | Status |
 |---------|-------------|--------|
@@ -19,7 +19,7 @@
 
 ---
 
-## ⛓️ On Lightchain AI
+## 💡⛓️ On Lightchain AI
 
 Running an AI worker node on the [Lightchain AI](https://lightchain.ai) mainnet (chainId 9200) — processing AIVM inference jobs and earning LCAI.
 
