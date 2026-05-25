@@ -11,11 +11,11 @@
 
 | Project | What It Does | Status |
 |---------|-------------|--------|
-| [🐬 OrcaMail](https://orcamail.ai) | Wallet-to-wallet encrypted messaging on Lightchain | ✅ Live |
-| [📚 OrcaLearn](https://orcalearn.ai) | AI-powered homeschool platform — lesson plans via AIVM, quizzes, transcripts | ✅ Live |
-| [🔍 Smart Contract Explainer](https://smartcontractexplainer.xyz) | Paste any contract address → get a plain-English explanation | ✅ Live |
-| [🎨 OrcaArt](https://emojisandstickers.xyz) | Discord bot for AI-generated emojis and stickers | ✅ Live |
-| 🗃️ OrcaFiles | Encrypted local-first file organizer — decentralized rebuild in progress | 🔧 Coming |
+| [🐬 OrcaMail](https://orcamail.ai)<br/>orcamail.ai | Wallet-to-wallet encrypted messaging on Lightchain | ✅ Live |
+| [📚 OrcaLearn](https://orcalearn.ai)<br/>orcalearn.ai | AI-powered homeschool platform — lesson plans via AIVM, quizzes, transcripts | ✅ Live |
+| [🔍 Smart Contract Explainer](https://smartcontractexplainer.xyz)<br/>smartcontractexplainer.xyz | Paste any contract address → get a plain-English explanation | ✅ Live |
+| [🎨 OrcaArt](https://emojisandstickers.xyz)<br/>emojisandstickers.xyz | Discord bot for AI-generated emojis and stickers | ✅ Live |
+| 🗃️ OrcaFiles<br/>orcafiles.ai | Encrypted local-first file organizer — decentralized rebuild in progress | 🔧 Coming |
 
 ---
 
